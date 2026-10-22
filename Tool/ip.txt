@@ -1,10 +1,8 @@
-﻿104.18.34.196:443#office优选｜HKG
-104.21.89.139:443#office优选｜HKG
-104.25.247.147:443#office优选｜HKG
-104.21.85.212:443#office优选｜HKG
-104.21.88.192:443#office优选｜HKG
-104.21.92.253:443#office优选｜HKG
-104.17.168.0:443#office优选｜HKG
-104.17.173.201:443#office优选｜HKG
-104.17.172.191:443#office优选｜HKG
-104.16.156.160:443#office优选｜HKG
+172.66.0.236:2096#HKG office优选[64ms 157.57Mbps]
+172.66.1.29:2087#HKG office优选[67ms 116.14Mbps]
+172.66.0.247:443#HKG office优选[70ms 149.77Mbps]
+172.66.1.39:2096#HKG office优选[77ms 160.06Mbps]
+172.66.0.22:443#HKG office优选[79ms 135.06Mbps]
+172.66.3.247:8443#HKG office优选[79ms 166.67Mbps]
+172.66.1.211:2083#HKG office优选[106ms 99.94Mbps]
+172.66.0.243:2083#HKG office优选[111ms 171.18Mbps]
