@@ -70,9 +70,7 @@ cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
 www.airasia.com:443#亚洲域名 | 大马亚航
 www.allianz.com.my:443#亚洲域名 | 大马安联
 www.dbs.com:443#亚洲域名 | 新加坡星展
-www.razer.com:443#亚洲域名 | 新加坡雷蛇
 ralphlauren.com.sg:443#亚洲域名 | 新加坡拉夫劳伦
-store.sony.com.sg:443#亚洲域名 | 新加坡索尼
 camperandnicholsons.com:443#亚洲域名 | 新加坡游艇
 drivewealth.com:443#亚洲域名 | 新加坡金融
 www.ooredoo.qa:443#亚洲域名 | 卡塔尔电信
@@ -101,7 +99,6 @@ www.mizuno.com:443#亚洲域名 | 日本美津浓
 edion.co.jp:443#亚洲域名 | 日本爱电王
 diesel.co.jp:443#亚洲域名 | 日本迪赛
 shop.glico.com:443#亚洲域名 | 日本格力高
-ten.com:443#亚洲域名 | 日本营销科技
 www.mlb-korea.com:443#亚洲域名 | 韩国MLB
 uplus.co.kr:443#亚洲域名 | 韩国LG电信
 www.hyundai.com:443#亚洲域名 | 韩国现代
