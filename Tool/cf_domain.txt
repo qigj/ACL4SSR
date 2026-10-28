@@ -107,46 +107,46 @@ www.samsungbiologics.com:443#亚洲域名 | 韩国三星生物
 www.mlb-korea.com:443#亚洲域名 | 韩国棒球联盟
 www.airpremia.com:443#亚洲域名 | 韩国航空会社
 doosan.com:443#亚洲域名 | 韩国斗山
-staticdelivery.nexusmods.com:443#域名优选｜office
-chrono24.com:2053#域名优选｜office
-uspto.gov:8443#域名优选｜office
-fbi.gov:443#域名优选｜office
-tinyurl.com:443#域名优选｜office
-www.dbs.com.sg:2053#域名优选｜office
-www.udacity.com:2083#域名优选｜office
-www.trumpinternationalrealty.com:443#域名优选｜office
-images.chesscomfiles.com:8443#域名优选｜office
-stores.staples.com:2053#域名优选｜office
-ahrefs.com:2096#域名优选｜office
-newsroom.avalara.com:2096#域名优选｜office
-www.hypixel.net:2083#域名优选｜office
-m.iyf.tv:2087#域名优选｜office
-www.shopify.com:443#域名优选｜office
-www.carousell.sg:8443#域名优选｜office
-www.sloomb.com:2096#域名优选｜office
-www.leics.police.uk:2096#域名优选｜office
-dynadot.com:2053#域名优选｜office
-www.deepl.com:2087#域名优选｜office
-markmonitor.com:8443#域名优选｜office
-www.giannidelprete.it:8443#域名优选｜office
-mokeedev.com:443#域名优选｜office
-linear.app:2053#域名优选｜office
-www.vmware.com:443#域名优选｜office
-login.rockwellautomation.com:2096#域名优选｜office
-themeisle.com:2083#域名优选｜office
-spring.io:8443#域名优选｜office
-www.speedtest.net:2083#域名优选｜office
-www.akasantech.com:2087#域名优选｜office
-openai.com:8443#域名优选｜office
-www.blibli.com:8443#域名优选｜office
-www.people.inc:443#域名优选｜office
-store.ubi.com:2096#域名优选｜office
-ali.nonull.pp.ua:2087#域名优选｜office
-neko.cloudflaree.eu.org:2053#域名优选｜office
-cf-ip-site.vov.moe:2053#域名优选｜office
-baota.us.kg:2053#域名优选｜office
-www.dg22.top:443#域名优选｜office
-cf.3666888.xyz:2083#域名优选｜office
-www.5h.com:443#域名优选｜office
-pttime.org:443#域名优选｜office
-101yaoye.com:2053#域名优选｜office
+staticdelivery.nexusmods.com:443#域名优先｜office HKG
+chrono24.com:2053#域名优先｜office HKG
+uspto.gov:8443#域名优先｜office HKG
+fbi.gov:443#域名优先｜office HKG
+tinyurl.com:443#域名优先｜office HKG
+www.dbs.com.sg:2053#域名优先｜office HKG
+www.udacity.com:2083#域名优先｜office HKG
+www.trumpinternationalrealty.com:443#域名优先｜office HKG
+images.chesscomfiles.com:8443#域名优先｜office HKG
+stores.staples.com:2053#域名优先｜office HKG
+ahrefs.com:2096#域名优先｜office HKG
+newsroom.avalara.com:2096#域名优先｜office HKG
+www.hypixel.net:2083#域名优先｜office HKG
+m.iyf.tv:2087#域名优先｜office HKG
+www.shopify.com:443#域名优先｜office HKG
+www.carousell.sg:8443#域名优先｜office HKG
+www.sloomb.com:2096#域名优先｜office HKG
+www.leics.police.uk:2096#域名优先｜office HKG
+dynadot.com:2053#域名优先｜office HKG
+www.deepl.com:2087#域名优先｜office HKG
+markmonitor.com:8443#域名优先｜office HKG
+www.giannidelprete.it:8443#域名优先｜office HKG
+mokeedev.com:443#域名优先｜office HKG
+linear.app:2053#域名优先｜office HKG
+www.vmware.com:443#域名优先｜office HKG
+login.rockwellautomation.com:2096#域名优先｜office HKG
+themeisle.com:2083#域名优先｜office HKG
+spring.io:8443#域名优先｜office HKG
+www.speedtest.net:2083#域名优先｜office HKG
+www.akasantech.com:2087#域名优先｜office HKG
+openai.com:8443#域名优先｜office HKG
+www.blibli.com:8443#域名优先｜office HKG
+www.people.inc:443#域名优先｜office HKG
+store.ubi.com:2096#域名优先｜office HKG
+ali.nonull.pp.ua:2087#域名优先｜office HKG
+neko.cloudflaree.eu.org:2053#域名优先｜office HKG
+cf-ip-site.vov.moe:2053#域名优先｜office HKG
+baota.us.kg:2053#域名优先｜office HKG
+www.dg22.top:443#域名优先｜office HKG
+cf.3666888.xyz:2083#域名优先｜office HKG
+www.5h.com:443#域名优先｜office HKG
+pttime.org:443#域名优先｜office HKG
+101yaoye.com:2053#域名优先｜office HKG
