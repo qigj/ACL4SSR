@@ -107,6 +107,8 @@ www.samsungbiologics.com:443#亚洲域名 | 韩国三星生物
 www.mlb-korea.com:443#亚洲域名 | 韩国棒球联盟
 www.airpremia.com:443#亚洲域名 | 韩国航空会社
 doosan.com:443#亚洲域名 | 韩国斗山
+www.people.inc:443#域名优选｜HKG people
+mokeedev.com:443#域名优选｜HKG mokeedev
 staticdelivery.nexusmods.com:443#域名优选｜HKG nexusmods
 chrono24.com:2053#域名优选｜HKG chrono24
 uspto.gov:8443#域名优选｜HKG uspto
@@ -129,7 +131,6 @@ dynadot.com:2053#域名优选｜HKG dynadot
 www.deepl.com:2087#域名优选｜HKG deepl
 markmonitor.com:8443#域名优选｜HKG markmonitor
 www.giannidelprete.it:8443#域名优选｜HKG giannidelprete
-mokeedev.com:443#域名优选｜HKG mokeedev
 linear.app:2053#域名优选｜HKG linear
 www.vmware.com:443#域名优选｜HKG vmware
 login.rockwellautomation.com:2096#域名优选｜HKG rockwellautomation
@@ -137,9 +138,8 @@ themeisle.com:2083#域名优选｜HKG themeisle
 spring.io:8443#域名优选｜HKG spring
 www.speedtest.net:2083#域名优选｜HKG speedtest
 www.akasantech.com:2087#域名优选｜HKG akasantech
-openai.com:8443#域名优选｜HKG openai
-www.blibli.com:8443#域名优选｜HKG blibli
-www.people.inc:443#域名优选｜HKG people
+openai.com:443#域名优选｜HKG openai
+www.blibli.com:443#域名优选｜HKG blibli
 store.ubi.com:2096#域名优选｜HKG ubi
 ali.nonull.pp.ua:2087#域名优选｜HKG pp
 neko.cloudflaree.eu.org:2053#域名优选｜HKG eu
