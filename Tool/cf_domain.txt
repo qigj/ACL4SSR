@@ -1,6 +1,8 @@
 162.159.198.1:443#官方入口 | MASQUE
 162.159.197.1:443#官方入口 | ZeroTrust
 162.159.193.1:443#官方入口 | WireGuard
+www.people.inc:443#企业域名｜People HKG
+mokeedev.com:443#企业域名｜魔趣科技 HKG
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.allianz.com:443#企业域名 | 安联集团
@@ -107,8 +109,6 @@ www.samsungbiologics.com:443#亚洲域名 | 韩国三星生物
 www.mlb-korea.com:443#亚洲域名 | 韩国棒球联盟
 www.airpremia.com:443#亚洲域名 | 韩国航空会社
 doosan.com:443#亚洲域名 | 韩国斗山
-www.people.inc:443#域名优选｜HKG people
-mokeedev.com:443#域名优选｜HKG mokeedev
 staticdelivery.nexusmods.com:443#域名优选｜HKG nexusmods
 chrono24.com:2053#域名优选｜HKG chrono24
 uspto.gov:8443#域名优选｜HKG uspto
@@ -138,7 +138,6 @@ themeisle.com:2083#域名优选｜HKG themeisle
 spring.io:8443#域名优选｜HKG spring
 www.speedtest.net:2083#域名优选｜HKG speedtest
 www.akasantech.com:2087#域名优选｜HKG akasantech
-openai.com:443#域名优选｜HKG openai
 www.blibli.com:443#域名优选｜HKG blibli
 store.ubi.com:2096#域名优选｜HKG ubi
 ali.nonull.pp.ua:2087#域名优选｜HKG pp
