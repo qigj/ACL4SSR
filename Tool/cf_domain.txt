@@ -3,6 +3,7 @@
 162.159.193.1:443#官方入口 | WireGuard
 www.people.inc:443#企业域名｜People HKG
 mokeedev.com:443#企业域名｜魔趣科技 HKG
+www.affirm.com:443#企业域名 | Affirm
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.allianz.com:443#企业域名 | 安联集团
@@ -19,7 +20,6 @@ www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 investor.apple.com:443#更多选择 | Apple
 markmonitor.com:443#更多选择 | MarkMonitor
-www.affirm.com:443#更多选择 | Affirm
 www.doordash.com:443#更多选择 | DoorDash
 ringcentral.com:443#更多选择 | RingCentral
 chrono24.com:443#更多选择 | Chrono24
