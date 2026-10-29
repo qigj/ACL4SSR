@@ -4,30 +4,26 @@
 www.people.inc:443#企业域名｜People HKG
 mokeedev.com:443#企业域名｜魔趣科技 HKG
 www.affirm.com:443#企业域名 | Affirm
-store.ubi.com:443#企业域名 | 育碧商城
-serviceshub.samsclub.com:443#企业域名 | 山姆会员
-www.allianz.com:443#企业域名 | 安联集团
-www.decathlon.com:443#企业域名 | 迪卡侬
-www.asda.com:443#企业域名 | 阿斯达
-www.shopify.com:443#企业域名 | Shopify
-cookiebot.com:443#企业域名 | Cookiebot
-bluehost.com:443#企业域名 | BlueHost
-nexusmods.com:443#企业域名 | NexusMods
-glassdoor.com:443#企业域名 | Glassdoor
-www.jimdo.com:443#企业域名 | Jimdo
-openai.com:443#企业域名 | OpenAI
-www.sage.com:443#更多选择 | Sage
+store.ubi.com:443#更多选择 | 育碧商城
+serviceshub.samsclub.com:443#更多选择 | 山姆会员
+www.allianz.com:443#更多选择 | 安联集团
+www.decathlon.com:443#更多选择 | 迪卡侬
+www.asda.com:443#更多选择 | 阿斯达
+www.shopify.com:443#更多选择 | Shopify
+cookiebot.com:443#更多选择 | Cookiebot
+bluehost.com:443#更多选择 | BlueHost
+nexusmods.com:443#更多选择 | NexusMods
+glassdoor.com:443#更多选择 | Glassdoor
+openai.com:443#更多选择 | OpenAI
 www.speedtest.net:443#更多选择 | Ookla
 investor.apple.com:443#更多选择 | Apple
 markmonitor.com:443#更多选择 | MarkMonitor
 www.doordash.com:443#更多选择 | DoorDash
 ringcentral.com:443#更多选择 | RingCentral
-chrono24.com:443#更多选择 | Chrono24
 homecare.stryker.com:443#更多选择 | 史赛克
 www.emerson.com:443#更多选择 | 艾默生
 visit.honeywell.com:443#更多选择 | 霍尼韦尔
 polestar.com:443#更多选择 | 极星汽车
-auctions.ihg.com.cn:443#更多选择 | 洲际酒店
 woodsbagot.com:443#更多选择 | 伍兹贝格
 www.transunion.hk:443#更多选择 | 香江环联
 www.hongkongairport.com:443#更多选择 | 香江机场
@@ -73,7 +69,6 @@ www.airasia.com:443#亚洲域名 | 大马亚航
 www.allianz.com.my:443#亚洲域名 | 大马安联
 www.dbs.com:443#亚洲域名 | 新加坡星展
 ralphlauren.com.sg:443#亚洲域名 | 新加坡拉夫劳伦
-camperandnicholsons.com:443#亚洲域名 | 新加坡游艇
 drivewealth.com:443#亚洲域名 | 新加坡金融
 www.ooredoo.qa:443#亚洲域名 | 卡塔尔电信
 qnb.com:443#亚洲域名 | 卡塔尔国家银行
@@ -86,7 +81,6 @@ locknlock.vn:443#亚洲域名 | 越南乐扣乐扣
 vinhomes.vn:443#亚洲域名 | 越南地产龙头
 batdongsan.com.vn:443#亚洲域名 | 越南房产网
 chotot.com:443#亚洲域名 | 越南电商
-www.vexere.com:443#亚洲域名 | 越南巴士
 www.bitkub.com:443#亚洲域名 | 泰国加密货币
 www.kingpower.com:443#亚洲域名 | 泰国皇权免税
 www.bumrungrad.com:443#亚洲域名 | 泰国康民
@@ -111,41 +105,4 @@ www.airpremia.com:443#亚洲域名 | 韩国航空会社
 doosan.com:443#亚洲域名 | 韩国斗山
 staticdelivery.nexusmods.com:443#域名优选｜HKG nexusmods
 chrono24.com:2053#域名优选｜HKG chrono24
-uspto.gov:8443#域名优选｜HKG uspto
-fbi.gov:443#域名优选｜HKG fbi
-tinyurl.com:443#域名优选｜HKG tinyurl
-www.dbs.com.sg:2053#域名优选｜HKG com
-www.udacity.com:2083#域名优选｜HKG udacity
-www.trumpinternationalrealty.com:443#域名优选｜HKG trumpinternationalrealty
-images.chesscomfiles.com:8443#域名优选｜HKG chesscomfiles
-stores.staples.com:2053#域名优选｜HKG staples
-ahrefs.com:2096#域名优选｜HKG ahrefs
-newsroom.avalara.com:2096#域名优选｜HKG avalara
-www.hypixel.net:2083#域名优选｜HKG hypixel
-m.iyf.tv:2087#域名优选｜HKG iyf
-www.shopify.com:443#域名优选｜HKG shopify
-www.carousell.sg:8443#域名优选｜HKG carousell
-www.sloomb.com:2096#域名优选｜HKG sloomb
-www.leics.police.uk:2096#域名优选｜HKG police
-dynadot.com:2053#域名优选｜HKG dynadot
-www.deepl.com:2087#域名优选｜HKG deepl
-markmonitor.com:8443#域名优选｜HKG markmonitor
-www.giannidelprete.it:8443#域名优选｜HKG giannidelprete
-linear.app:2053#域名优选｜HKG linear
-www.vmware.com:443#域名优选｜HKG vmware
-login.rockwellautomation.com:2096#域名优选｜HKG rockwellautomation
-themeisle.com:2083#域名优选｜HKG themeisle
-spring.io:8443#域名优选｜HKG spring
-www.speedtest.net:2083#域名优选｜HKG speedtest
-www.akasantech.com:2087#域名优选｜HKG akasantech
-www.blibli.com:443#域名优选｜HKG blibli
-store.ubi.com:2096#域名优选｜HKG ubi
-ali.nonull.pp.ua:2087#域名优选｜HKG pp
-neko.cloudflaree.eu.org:2053#域名优选｜HKG eu
-cf-ip-site.vov.moe:2053#域名优选｜HKG vov
-baota.us.kg:2053#域名优选｜HKG us
-www.dg22.top:443#域名优选｜HKG dg22
-cf.3666888.xyz:2083#域名优选｜HKG 3666888
-www.5h.com:443#域名优选｜HKG 5h
-pttime.org:443#域名优选｜HKG pttime
-101yaoye.com:2053#域名优选｜HKG 101yaoye
+
