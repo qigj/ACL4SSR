@@ -105,4 +105,31 @@ www.airpremia.com:443#亚洲域名 | 韩国航空会社
 doosan.com:443#亚洲域名 | 韩国斗山
 staticdelivery.nexusmods.com:443#域名优选｜HKG nexusmods
 chrono24.com:2053#域名优选｜HKG chrono24
-
+www.hypixel.net:443 #域名优选 | HKG hypixel
+chrono24.com:443 #域名优选 | HKG chrono24
+newsroom.avalara.com:443 #域名优选 | HKG avalara
+www.people.inc:443 #域名优选 | HKG people
+themeisle.com:443 #域名优选 | HKG themeisle
+skk.moe:443 #域名优选 | HKG skk
+www.speedtest.net:443 #域名优选 | HKG speedtest
+securecircle.com:443 #域名优选 | HKG securecircle
+www.deepl.com:443 #域名优选 | HKG deepl
+app.rebase.tv:443 #域名优选 | HKG rebase
+idc.urkeji.com:443 #域名优选 | HKG urkeji
+dynadot.com:443 #域名优选 | HKG dynadot
+mokeedev.com:443 #域名优选 | HKG mokeedev
+cloudflare.idc.rocks:443 #域名优选 | HKG idc
+saas.sin.fan:443 #域名优选 | HKG sin
+www.mlkj888.com:443 #域名优选 | HKG mlkj888
+fbi.gov:443 #域名优选 | HKG fbi
+cloudflare-ip.mofashi.ltd:443 #域名优选 | HKG mofashi
+staticdelivery.nexusmods.com:443 #域名优选 | HKG nexusmods
+cdn.667891.xyz:443 #域名优选 | HKG 667891
+224322.xyz:443 #域名优选 | HKG 224322
+icook.hk:443 #域名优选 | HKG icook
+mrmacintosh.com:443 #域名优选 | HKG mrmacintosh
+cdn.ctn32.us.kg:443 #域名优选 | HKG us
+emos.prlo.de:443 #域名优选 | HKG prlo
+store.ubi.com:443 #域名优选 | HKG ubi
+api.gzcrtw.com:443 #域名优选 | HKG gzcrtw
+cdn.204910.best:443 #域名优选 | HKG 204910
