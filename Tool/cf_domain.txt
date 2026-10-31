@@ -108,7 +108,6 @@ chrono24.com:2053#域名优选 | HKG chrono24
 www.hypixel.net:443 #域名优选 | HKG hypixel
 chrono24.com:443 #域名优选 | HKG chrono24
 newsroom.avalara.com:443 #域名优选 | HKG avalara
-www.people.inc:443 #域名优选 | HKG people
 themeisle.com:443 #域名优选 | HKG themeisle
 skk.moe:443 #域名优选 | HKG skk
 www.speedtest.net:443 #域名优选 | HKG speedtest
@@ -117,7 +116,6 @@ www.deepl.com:443 #域名优选 | HKG deepl
 app.rebase.tv:443 #域名优选 | HKG rebase
 idc.urkeji.com:443 #域名优选 | HKG urkeji
 dynadot.com:443 #域名优选 | HKG dynadot
-mokeedev.com:443 #域名优选 | HKG mokeedev
 cloudflare.idc.rocks:443 #域名优选 | HKG idc
 saas.sin.fan:443 #域名优选 | HKG sin
 www.mlkj888.com:443 #域名优选 | HKG mlkj888
