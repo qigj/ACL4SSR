@@ -1,0 +1,132 @@
+162.159.198.1:443#官方入口 | MASQUE
+162.159.197.1:443#官方入口 | ZeroTrust
+162.159.193.1:443#官方入口 | WireGuard
+www.people.inc:443#企业域名｜People HKG
+mokeedev.com:443#企业域名｜魔趣科技 HKG
+www.affirm.com:443#企业域名 | Affirm
+store.ubi.com:443#更多选择 | 育碧商城
+serviceshub.samsclub.com:443#更多选择 | 山姆会员
+www.allianz.com:443#更多选择 | 安联集团
+www.decathlon.com:443#更多选择 | 迪卡侬
+www.asda.com:443#更多选择 | 阿斯达
+www.shopify.com:443#更多选择 | Shopify
+cookiebot.com:443#更多选择 | Cookiebot
+bluehost.com:443#更多选择 | BlueHost
+nexusmods.com:443#更多选择 | NexusMods
+glassdoor.com:443#更多选择 | Glassdoor
+openai.com:443#更多选择 | OpenAI
+www.speedtest.net:443#更多选择 | Ookla
+investor.apple.com:443#更多选择 | Apple
+markmonitor.com:443#更多选择 | MarkMonitor
+www.doordash.com:443#更多选择 | DoorDash
+ringcentral.com:443#更多选择 | RingCentral
+homecare.stryker.com:443#更多选择 | 史赛克
+www.emerson.com:443#更多选择 | 艾默生
+visit.honeywell.com:443#更多选择 | 霍尼韦尔
+polestar.com:443#更多选择 | 极星汽车
+woodsbagot.com:443#更多选择 | 伍兹贝格
+www.transunion.hk:443#更多选择 | 香江环联
+www.hongkongairport.com:443#更多选择 | 香江机场
+www.police.uk:443#更多选择 | 英国警务
+www.leics.police.uk:443#更多选择 | 莱斯特郡
+china.mfa.gov.ua:443#更多选择 | 乌克兰驻华
+www.visa.cn:443#金融域名 | VISA中国
+visa.com:443#金融域名 | VISA美国
+www.tpg.com:443#金融域名 | TPG
+www.wilshire.com:443#金融域名 | Wilshire
+engage.cloudflareclient.com:443#官方域名 | WARP
+cloudflare-eth.com:443#官方域名 | Web3
+cloudflare.dev:443#官方域名 | Developers
+cloudflare.net:443#官方域名 | Business
+r2.dev:443#官方域名 | R2
+pages.dev:443#官方域名 | Pages
+cdnjs.com:443#官方域名 | CDNJS
+cloudflare-ech.com:443#官方域名 | ECH
+static.cloudflareinsights.com:443#官方域名 | Analytics
+ln.edu.hk:443#教育域名 | 岭南大学
+www.ntu.edu.sg:443#教育域名 | 南洋理工
+www.ox.ac.uk:443#教育域名 | 牛津大学
+columbia.edu:443#教育域名 | 哥伦比亚
+www.udacity.com:443#教育域名 | Udacity
+for.edu.sg:443#教育域名 | ForEduSG
+www.researchgate.net:443#教育域名 | ResearchGate
+saas.sin.fan:443#大佬维护 | MIYU
+cloudflare.182682.xyz:443#大佬维护 | WeTest
+skk.moe:443#大佬维护 | Sukka
+bestcf.030101.xyz:443#大佬维护 | MingYu
+cf.877774.xyz:443#大佬维护 | QMS
+yg1.ygkkk.dpdns.org:443#大佬维护 | YGKKK
+cf.090227.xyz:443#大佬维护 | CMLiu
+cf.3666888.xyz:443#大佬维护 | HuTao
+cf.tencentapp.cn:443#大佬维护 | KTFF
+ct.877774.xyz:443#按运营商 | 电信QMS
+ct.cloudflare.byoip.top:443#按运营商 | 电信Byoip
+cu.877774.xyz:443#按运营商 | 联通QMS
+cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
+cmcc.877774.xyz:443#按运营商 | 移动QMS
+cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
+www.airasia.com:443#亚洲域名 | 大马亚航
+www.allianz.com.my:443#亚洲域名 | 大马安联
+www.dbs.com:443#亚洲域名 | 新加坡星展
+ralphlauren.com.sg:443#亚洲域名 | 新加坡拉夫劳伦
+drivewealth.com:443#亚洲域名 | 新加坡金融
+www.ooredoo.qa:443#亚洲域名 | 卡塔尔电信
+qnb.com:443#亚洲域名 | 卡塔尔国家银行
+www.lacoste.qa:443#亚洲域名 | 卡塔尔鳄鱼
+www.nike.qa:443#亚洲域名 | 卡塔尔耐克
+starbucks.qa:443#亚洲域名 | 卡塔尔星巴克
+decathlon.qa:443#亚洲域名 | 卡塔尔迪卡侬
+crocs.com.vn:443#亚洲域名 | 越南卡骆驰
+locknlock.vn:443#亚洲域名 | 越南乐扣乐扣
+vinhomes.vn:443#亚洲域名 | 越南地产龙头
+batdongsan.com.vn:443#亚洲域名 | 越南房产网
+chotot.com:443#亚洲域名 | 越南电商
+www.bitkub.com:443#亚洲域名 | 泰国加密货币
+www.kingpower.com:443#亚洲域名 | 泰国皇权免税
+www.bumrungrad.com:443#亚洲域名 | 泰国康民
+www.nokair.com:443#亚洲域名 | 泰国皇雀航空
+www.minorhotels.com:443#亚洲域名 | 泰国美诺酒店
+www.toysrus.co.th:443#亚洲域名 | 泰国玩具反斗城
+www.bathandbodyworks.co.th:443#亚洲域名 | 泰国BBW
+www.victoriassecretbeauty.co.th:443#亚洲域名 | 泰国维密
+www.allianz.co.id:443#亚洲域名 | 印尼安联
+allot.com:443#亚洲域名 | 以色列Allot
+www.mizuno.com:443#亚洲域名 | 日本美津浓
+edion.co.jp:443#亚洲域名 | 日本爱电王
+diesel.co.jp:443#亚洲域名 | 日本迪赛
+shop.glico.com:443#亚洲域名 | 日本格力高
+www.mlb-korea.com:443#亚洲域名 | 韩国MLB
+uplus.co.kr:443#亚洲域名 | 韩国LG电信
+www.hyundai.com:443#亚洲域名 | 韩国现代
+www.kia.com:443#亚洲域名 | 韩国起亚
+www.samsungbiologics.com:443#亚洲域名 | 韩国三星生物
+www.mlb-korea.com:443#亚洲域名 | 韩国棒球联盟
+www.airpremia.com:443#亚洲域名 | 韩国航空会社
+doosan.com:443#亚洲域名 | 韩国斗山
+staticdelivery.nexusmods.com:443#域名优选 | HKG nexusmods
+chrono24.com:2053#域名优选 | HKG chrono24
+www.hypixel.net:443 #域名优选 | HKG hypixel
+newsroom.avalara.com:443 #域名优选 | HKG avalara
+themeisle.com:443 #域名优选 | HKG themeisle
+skk.moe:443 #域名优选 | HKG skk
+www.speedtest.net:443 #域名优选 | HKG speedtest
+securecircle.com:443 #域名优选 | HKG securecircle
+www.deepl.com:443 #域名优选 | HKG deepl
+app.rebase.tv:443 #域名优选 | HKG rebase
+idc.urkeji.com:443 #域名优选 | HKG urkeji
+dynadot.com:443 #域名优选 | HKG dynadot
+cloudflare.idc.rocks:443 #域名优选 | HKG idc
+saas.sin.fan:443 #域名优选 | HKG sin
+www.mlkj888.com:443 #域名优选 | HKG mlkj888
+fbi.gov:443 #域名优选 | HKG fbi
+cloudflare-ip.mofashi.ltd:443 #域名优选 | HKG mofashi
+staticdelivery.nexusmods.com:443 #域名优选 | HKG nexusmods
+cdn.667891.xyz:443 #域名优选 | HKG 667891
+224322.xyz:443 #域名优选 | HKG 224322
+icook.hk:443 #域名优选 | HKG icook
+mrmacintosh.com:443 #域名优选 | HKG mrmacintosh
+cdn.ctn32.us.kg:443 #域名优选 | HKG us
+emos.prlo.de:443 #域名优选 | HKG prlo
+store.ubi.com:443 #域名优选 | HKG ubi
+api.gzcrtw.com:443 #域名优选 | HKG gzcrtw
+cdn.204910.best:443 #域名优选 | HKG 204910
