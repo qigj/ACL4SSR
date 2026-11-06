@@ -3,11 +3,12 @@
 162.159.193.1:443#官方入口 | WireGuard
 www.people.inc:443#企业域名｜People HKG
 mokeedev.com:443#企业域名｜魔趣科技 HKG
-www.affirm.com:443#企业域名 | Affirm
-skk.moe:443#企业域名 | HKG skk
-224322.xyz:443#企业域名 | HKG 224322
-icook.hk:443#企业域名 | HKG icook
-mrmacintosh.com:443#域名优选 | HKG mrmacintosh
+www.affirm.com:443#企业域名 | Affirm HKG
+skk.moe:443#企业域名 | skk HKG
+224322.xyz:443#企业域名 | 224322 HKG
+icook.hk:443#企业域名 | icook HKG
+mrmacintosh.com:443#企业域名 | mrmacintosh HKG
+app.rebase.tv:443#企业域名 | rebase HKG
 store.ubi.com:443#更多选择 | 育碧商城
 serviceshub.samsclub.com:443#更多选择 | 山姆会员
 www.allianz.com:443#更多选择 | 安联集团
@@ -116,7 +117,6 @@ skk.moe:443#域名优选 | HKG skk
 www.speedtest.net:443#域名优选 | HKG speedtest
 securecircle.com:443#域名优选 | HKG securecircle
 www.deepl.com:443#域名优选 | HKG deepl
-app.rebase.tv:443#域名优选 | HKG rebase
 idc.urkeji.com:443#域名优选 | HKG urkeji
 dynadot.com:443#域名优选 | HKG dynadot
 cloudflare.idc.rocks:443#域名优选 | HKG idc
