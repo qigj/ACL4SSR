@@ -115,8 +115,6 @@ newsroom.avalara.com:443#域名优选 | HKG avalara
 themeisle.com:44 #域名优选 | HKG themeisle
 skk.moe:443#域名优选 | HKG skk
 www.speedtest.net:443#域名优选 | HKG speedtest
-securecircle.com:443#域名优选 | HKG securecircle
-www.deepl.com:443#域名优选 | HKG deepl
 idc.urkeji.com:443#域名优选 | HKG urkeji
 dynadot.com:443#域名优选 | HKG dynadot
 cloudflare.idc.rocks:443#域名优选 | HKG idc
