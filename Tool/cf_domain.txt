@@ -115,7 +115,6 @@ staticdelivery.nexusmods.com:443#域名优选 | HKG nexusmods
 chrono24.com:2053#域名优选 | HKG chrono24
 www.hypixel.net:443#域名优选 | HKG hypixel
 themeisle.com:44 #域名优选 | HKG themeisle
-skk.moe:443#域名优选 | HKG skk
 www.speedtest.net:443#域名优选 | HKG speedtest
 cloudflare.idc.rocks:443#域名优选 | HKG idc
 saas.sin.fan:443#域名优选 | HKG sin
