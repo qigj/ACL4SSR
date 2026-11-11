@@ -9,6 +9,9 @@ skk.moe:443#企业域名 | skk HKG
 icook.hk:443#企业域名 | icook HKG
 mrmacintosh.com:443#企业域名 | mrmacintosh HKG
 app.rebase.tv:443#企业域名 | rebase HKG
+idc.urkeji.com:443#企业域名 | urkeji HKG
+cdn.ctn32.us.kg:443#企业域名 | ctn32 HKG
+emos.prlo.de:443#企业域名 | prlo HKG
 store.ubi.com:443#更多选择 | 育碧商城
 serviceshub.samsclub.com:443#更多选择 | 山姆会员
 www.allianz.com:443#更多选择 | 安联集团
@@ -114,7 +117,6 @@ www.hypixel.net:443#域名优选 | HKG hypixel
 themeisle.com:44 #域名优选 | HKG themeisle
 skk.moe:443#域名优选 | HKG skk
 www.speedtest.net:443#域名优选 | HKG speedtest
-idc.urkeji.com:443#域名优选 | HKG urkeji
 cloudflare.idc.rocks:443#域名优选 | HKG idc
 saas.sin.fan:443#域名优选 | HKG sin
 www.mlkj888.com:443#域名优选 | HKG mlkj888
@@ -122,8 +124,6 @@ fbi.gov:443#域名优选 | HKG fbi
 cloudflare-ip.mofashi.ltd:443#域名优选 | HKG mofashi
 staticdelivery.nexusmods.com:443#域名优选 | HKG nexusmods
 cdn.667891.xyz:443#域名优选 | HKG 667891
-cdn.ctn32.us.kg:443#域名优选 | HKG us
-emos.prlo.de:443#域名优选 | HKG prlo
 store.ubi.com:443#域名优选 | HKG ubi
 api.gzcrtw.com:443#域名优选 | HKG gzcrtw
 cdn.204910.best:443#域名优选 | HKG 204910
