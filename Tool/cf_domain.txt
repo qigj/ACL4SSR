@@ -12,36 +12,6 @@ app.rebase.tv:443#企业域名 | rebase HKG
 idc.urkeji.com:443#企业域名 | urkeji HKG
 cdn.ctn32.us.kg:443#企业域名 | ctn32 HKG
 emos.prlo.de:443#企业域名 | prlo HKG
-store.ubi.com:443#更多选择 | 育碧商城
-serviceshub.samsclub.com:443#更多选择 | 山姆会员
-www.allianz.com:443#更多选择 | 安联集团
-www.decathlon.com:443#更多选择 | 迪卡侬
-www.asda.com:443#更多选择 | 阿斯达
-www.shopify.com:443#更多选择 | Shopify
-cookiebot.com:443#更多选择 | Cookiebot
-bluehost.com:443#更多选择 | BlueHost
-nexusmods.com:443#更多选择 | NexusMods
-glassdoor.com:443#更多选择 | Glassdoor
-openai.com:443#更多选择 | OpenAI
-www.speedtest.net:443#更多选择 | Ookla
-investor.apple.com:443#更多选择 | Apple
-markmonitor.com:443#更多选择 | MarkMonitor
-www.doordash.com:443#更多选择 | DoorDash
-ringcentral.com:443#更多选择 | RingCentral
-homecare.stryker.com:443#更多选择 | 史赛克
-www.emerson.com:443#更多选择 | 艾默生
-visit.honeywell.com:443#更多选择 | 霍尼韦尔
-polestar.com:443#更多选择 | 极星汽车
-woodsbagot.com:443#更多选择 | 伍兹贝格
-www.transunion.hk:443#更多选择 | 香江环联
-www.hongkongairport.com:443#更多选择 | 香江机场
-www.police.uk:443#更多选择 | 英国警务
-www.leics.police.uk:443#更多选择 | 莱斯特郡
-china.mfa.gov.ua:443#更多选择 | 乌克兰驻华
-www.visa.cn:443#金融域名 | VISA中国
-visa.com:443#金融域名 | VISA美国
-www.tpg.com:443#金融域名 | TPG
-www.wilshire.com:443#金融域名 | Wilshire
 engage.cloudflareclient.com:443#官方域名 | WARP
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
