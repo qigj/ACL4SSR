@@ -10,8 +10,6 @@ on:
 jobs:
   update:
     runs-on: ubuntu-slim
-    permissions:
-      contents: write  # 关键：授予写入代码库的权限
     if: github.ref == 'refs/heads/master'
     steps:
       - name: Checkout repository
@@ -155,4 +153,3 @@ jobs:
           push: true
         env:
           DATETIME: ${{ steps.datetime.outputs.datetime }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
